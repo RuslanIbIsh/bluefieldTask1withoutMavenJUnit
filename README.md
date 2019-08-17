@@ -2,7 +2,7 @@ This library allows you to multiply any length of a number.
 
 
 
-After starting, CLI enter the multiplicand * multiplier.
+After starting, in CLI enter the multiplicand * multiplier.
 
 
 
